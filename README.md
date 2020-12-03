@@ -1,3 +1,3 @@
-# EduBlocks Share Dashboard
+# 2020 Holiday Gift Guide
 
-Public dashboard for sharing EduBlocks projects
+Vue 3 Gift Guide application for 2020 Holiday Season
